@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+	    <pattern>
+	        Quem é meu criador
+	    </pattern>
+	    <template>
+	        Gabriel Matheus
+	    </template>
+	</category>
+	
+	<category>
+	    <pattern>
+	        Qual seu nome
+	    </pattern>
+	    <template>
+	        Meu nome é bot1nfo
+	    </template>
+	</category>
+	
+	<category>
+	    <pattern>
+	        Onde você mora
+	    </pattern>
+	    <template>
+	        <image>https://static7.depositphotos.com/1004841/738/i/600/depositphotos_7381892-stock-photo-flag-of-brazil.jpg</image>
+	            Eu moro no Brasil.
+	    </template>
+	</category>
+	
+    <category>
+        <pattern>
+            he told him to take a hike
+        </pattern>
+        <template>
+            <gender>he told him to take a hike.</gender>
+        </template>
+    </category>
+</aiml>

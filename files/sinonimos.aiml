@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    <category>
+        <pattern>Sim e com você</pattern>
+        <template>Estou bem também!</template>
+    </category>
+    <category>
+        <pattern>Sim e você</pattern>
+        <template><srai>Sim e com você</srai></template>
+    </category>
+</aiml>
