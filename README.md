@@ -1,1 +1,0 @@
-Contains the files for bot1nfo.

@@ -27,13 +27,4 @@
 	            Eu moro no Brasil.
 	    </template>
 	</category>
-	
-    <category>
-        <pattern>
-            he told him to take a hike
-        </pattern>
-        <template>
-            <gender>he told him to take a hike.</gender>
-        </template>
-    </category>
 </aiml>
